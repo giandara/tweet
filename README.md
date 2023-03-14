@@ -41,8 +41,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
-
  The project utilizes the data provided on Kaggle.com with data of 30,000 Tweets that has the hashtag #WordCup2022, collected on the first day of the FIFA World Cup 2022. The purpose of this project is to predict the tweets' sentiment, using the provided sentiment labels. I also tried to create my own version of sentiment labels using the Vader package in Python.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +89,6 @@ You would need the more common Python packages such as pandas, matplotlib, numpy
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gina-h-nguyen/
-[product-screenshot]: (tweet/Screenshot 2023-03-14 161628.png)
 [Python.js]: https://img.shields.io/badge/-Python-orange
 [Python-url]: https://docs.python.org/3/
 
