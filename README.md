@@ -41,7 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://docs.google.com/presentation/d/12MY7f2HPcW7TLXcYGhHb43_XOwz-J-92oWu_5CqQkIQ/edit?usp=sharing)
+[![Product Name Screen Shot][product-screenshot]]
 
  The project utilizes the data provided on Kaggle.com with data of 30,000 Tweets that has the hashtag #WordCup2022, collected on the first day of the FIFA World Cup 2022. The purpose of this project is to predict the tweets' sentiment, using the provided sentiment labels. I also tried to create my own version of sentiment labels using the Vader package in Python.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
