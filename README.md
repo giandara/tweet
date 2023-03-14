@@ -91,7 +91,7 @@ You would need the more common Python packages such as pandas, matplotlib, numpy
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/gina-h-nguyen/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://drive.google.com/file/d/1C6cHMwslvxDEyEDbMdfL4y66mWzPT9Tu/view?usp=sharing
 [Python.js]: https://img.shields.io/badge/-Python-orange
 [Python-url]: https://docs.python.org/3/
 
